@@ -8,6 +8,7 @@
   - [Screenshots](#screenshots)
   - [User-Story](#user-story)
   - [Description](#description)
+  - [Contributions](#contributions)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
@@ -31,6 +32,9 @@ WHILE I'm able to save them to a new playlist
 ## Description
 
 To create new playlist using the spotify app and save it to my account
+
+## Contributions
+Codecademy
 
 ## Installation
 
